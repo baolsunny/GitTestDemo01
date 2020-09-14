@@ -8,5 +8,7 @@ public class App {
 
         System.out.println("Hello World!");
         System.out.println("Hello World!~master!~master!~master!~master");
+
+        System.out.println("远程仓库修改!");
     }
 }
