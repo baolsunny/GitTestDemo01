@@ -14,5 +14,7 @@ public class App {
         System.out.println("Hello World!~master!~master!~master!~master");
 
         System.out.println("远程仓库修改!");
+
+        System.out.println("testBr!testBr!testBr!testBr!");
     }
 }
