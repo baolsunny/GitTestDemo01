@@ -12,5 +12,7 @@ public class App {
         System.out.println("Hello World!3333333333");
         System.out.println("Hello World!4444444444");
         System.out.println("Hello World!~master!~master!~master!~master");
+
+        System.out.println("远程仓库修改!");
     }
 }
